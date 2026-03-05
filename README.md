@@ -31,9 +31,9 @@ https://github.com/user-attachments/assets/710ea23b-0a96-454d-9401-a0c0a22f5a89
 </td>
 <td align="center" width="50%">
   
-### hoge
+### 
   
-<div><video controls src="https://github.com/user-attachments/assets/572f97b9-0b38-4594-a135-af9aec2b5b1f" muted="true"></video></div>
+<div><video controls src="" muted="true"></video></div>
 </td>
 </tr>
 
