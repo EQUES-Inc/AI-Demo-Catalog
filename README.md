@@ -82,12 +82,7 @@ info[at]eques.co.jp
 
 ### 3D CAD生成AI（AI CAD AGENT）
 
-Coming soon ...
-
-お問合せください。
-
-info[at]eques.co.jp
-
+<div><video controls src="https://github.com/user-attachments/assets/11d87631-b674-40dd-86ce-220c0f914065" muted="true"></video></div>
 
 </td>
 <td align="center" width="50%">
