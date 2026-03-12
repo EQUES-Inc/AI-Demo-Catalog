@@ -1,5 +1,14 @@
 
-https://github.com/user-attachments/assets/794ba3f5-3584-4c55-9baa-d228e584601c
+<div><video controls src="https://github.com/user-attachments/assets/c0a3688f-ac52-452a-80e8-2e05388de19e" muted="true"></video></div>
+
+---
+
+<p align="center">
+<img width="324" height="123" alt="equeslogo_gray_v1_20231101" src="https://github.com/user-attachments/assets/ba18a8f7-0eeb-438a-bdfc-eb56b3fae2cd" />
+</p>
+
+---
+
 # EQUES AI デモカタログ
 
 <table width="100%">
@@ -20,8 +29,7 @@ https://github.com/user-attachments/assets/794ba3f5-3584-4c55-9baa-d228e584601c
 
 ### 💊QAI Checker
   
-<div><video controls src="https://github.com/user-attachments/assets/5ec71a04-5a88-45b6-96a2-f9ffd709c88e" muted="true"></video></div>
-
+<div><video controls src="https://github.com/user-attachments/assets/c0a3688f-ac52-452a-80e8-2e05388de19e" muted="true"></video></div>
 
 <div><video controls src="https://github.com/user-attachments/assets/32dc1252-8347-4b05-a44b-c8da2b5130bf" muted="true"></video></div>
 </td>
