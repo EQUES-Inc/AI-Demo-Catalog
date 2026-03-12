@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/794ba3f5-3584-4c55-9baa-d228e584601c
 # EQUES AI デモカタログ
 
 <table width="100%">
@@ -6,40 +8,25 @@
 <td align="center" width="50%">
   
 ### 💊QAI Generator
-  
 
-https://github.com/user-attachments/assets/710ea23b-0a96-454d-9401-a0c0a22f5a89
+<div><video controls src="https://github.com/user-attachments/assets/5a7f3f3a-2c93-4b21-882e-7a4d582cfe8c" muted="true"></video></div>
 
+<div><video controls src="https://github.com/user-attachments/assets/710ea23b-0a96-454d-9401-a0c0a22f5a89" muted="true"></video></div>
 
-<div><video controls src="" muted="true"></video></div>
 </td>
 <td align="center" width="50%">
   
+
+
 ### 💊QAI Checker
   
-<div><video controls src="https://github.com/user-attachments/assets/9b42b9bf-530f-4c87-b950-bbc375855933" muted="true"></video></div>
+<div><video controls src="https://github.com/user-attachments/assets/5ec71a04-5a88-45b6-96a2-f9ffd709c88e" muted="true"></video></div>
 
 
 <div><video controls src="https://github.com/user-attachments/assets/32dc1252-8347-4b05-a44b-c8da2b5130bf" muted="true"></video></div>
 </td>
 </tr>
 
-<tr>
-<td align="center" width="50%">
-  
-### 💊寺子屋learning（GMP・MR）
-  
-<div><video controls src="" muted="true"></video></div>
-</td>
-<td align="center" width="50%">
-  
-### -
-
-Coming soon. 
-
-<div><video controls src="" muted="true"></video></div>
-</td>
-</tr>
 
 <tr>
 <td align="center" width="50%">
@@ -82,7 +69,7 @@ info[at]eques.co.jp
 
 ### 3D CAD生成AI（AI CAD AGENT）
 
-<div><video controls src="https://github.com/user-attachments/assets/11d87631-b674-40dd-86ce-220c0f914065" muted="true"></video></div>
+<div><video controls src="https://github.com/user-attachments/assets/d93e1446-8237-4393-b2cf-346bb35a80d3" muted="true"></video></div>
 
 </td>
 <td align="center" width="50%">
