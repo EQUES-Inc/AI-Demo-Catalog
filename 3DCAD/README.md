@@ -1,5 +1,11 @@
 # 3D CAD カタログ
 
+✔︎ 文章から3D CADを生成
+
+✔︎ STEP / STLでそのままエクスポート
+
+✔︎ 2D図面生成機能も開発中
+
 ## CAD Generator Cloud　（高性能）
 
 <table width="100%">
