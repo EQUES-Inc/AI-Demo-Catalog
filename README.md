@@ -93,9 +93,9 @@ info[at]eques.co.jp
 <tr>
 <td align="center" width="50%">
 
-### -
+### 論文調査AI
 
--
+Coming soon ...
 
 
 </td>
@@ -115,7 +115,6 @@ info[at]eques.co.jp
 
 
 <div><video controls src="https://github.com/user-attachments/assets/058586ff-39e1-4010-8f50-9064b1e2bd4e" muted="true"></video></div>
-
 
 
 </td>
