@@ -1,4 +1,3 @@
-
 <div><video controls src="https://github.com/user-attachments/assets/c0a3688f-ac52-452a-80e8-2e05388de19e" muted="true"></video></div>
 
 ---
@@ -64,7 +63,7 @@
 
 ### 画像の異常検知デモAI
 
-<div><video controls src="" muted="true"></video></div>
+<div><video controls src="https://github.com/user-attachments/assets/8c55de56-135e-4d2b-bd4b-3e9af7b7bea6" muted="true"></video></div>
 
 
 </td>
@@ -84,7 +83,6 @@
 
 <div><video controls src="https://github.com/user-attachments/assets/870ba4c9-6ed8-411d-8152-7750d3e4126f" muted="true"></video></div>
 
-
 </td>
 </tr>
 
@@ -93,8 +91,9 @@
 
 ### 論文調査AI
 
-Coming soon ...
+<div><video controls src="https://github.com/user-attachments/assets/75187f72-304b-4ffc-b3ae-84c87ffceac4" muted="true"></video></div>
 
+東大院生が考えた独自のフィルタリング・検索ノウハウをお届けします。
 
 </td>
 <td align="center" width="50%">
