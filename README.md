@@ -62,11 +62,9 @@
 </td>
 <td align="center" width="50%">
 
-### 異常検知デモAI
+### 画像の異常検知デモAI
 
-お問合せください。
-
-info[at]eques.co.jp
+<div><video controls src="" muted="true"></video></div>
 
 
 </td>
